@@ -1,0 +1,12 @@
+.flex-container {
+    display: flex;
+    justify-content: center;
+    background-color: antiquewhite;
+}
+
+
+.board {
+    width: 500px;
+    height: 500px;
+    display: grid;
+}
